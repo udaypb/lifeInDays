@@ -1,0 +1,11 @@
+.pastBox {
+    display: inline-block;
+    width: calc(4% - 10px);
+	min-width: calc(4% - 10px);
+    height: 40px;
+    background: rgb(150, 78, 78);
+    margin: 10px;
+}
+.date {
+    color:white;
+}
