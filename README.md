@@ -1,3 +1,22 @@
+
+# Life in Days
+
+⭐️ A grid UI with each box representing a day in your life or a month in your life or a year in your life. Your choice!
+
+⭐️ How fun would it be to have an ensemble of memories in a snazzy motivating grid layout that precisely shows you how much time you have left on this planet. 
+
+⭐️ Assuming you will live up to 88 year, i.e ~ 4,576 weeks. 🎉🎉
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
